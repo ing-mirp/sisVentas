@@ -1,0 +1,29 @@
+.btnxam {
+  background: #f4f4f4;
+  color: #000;
+  display: inline-block;
+  font-size: 12px;
+  margin: 3px;
+  padding: 2px 0px;
+  text-align: center;
+  width: 80px;
+  box-shadow: 0px 2px 0px #c4c4c4;
+}
+
+.btnxam.redondeado {
+  border-radius: 50px;
+}
+
+.btnxam:hover {
+  padding: 2px;
+  background: #a5a5a5;
+  color: #000;
+}
+
+.formularioxam {
+  width: 500px;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 30px;
+  box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);
+}
